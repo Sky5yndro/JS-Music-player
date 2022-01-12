@@ -34,22 +34,10 @@ let track_list = [
     path: "file:///C:/Users/sky5y/github/js-music-player/Resources/Save%20Your%20Tears-[Hungama.Club].mp3"
   },
   {
-    name: "Call Out My Name",
-    artist: "The Weekend",
-    image: "file:///E:/Download/The-Weeknd-the-highlights.jpg",
-    path: "file:///E:/Download/The_Weekend_-_Call_Out_My_Name-(LekkiLoaded.com).mp3",
-  },
-  {
-    name: "Starboy",
-    artist: "The Weekend",
-    image: "file:///E:/Download/starboy.jfif",
-    path: "file:///E:/Download/The_Weekend_-_Call_Out_My_Name-(LekkiLoaded.com).mp3",
-  },
-  {
-    name: "Heartless",
-    artist: "The Weekend",
-    image: "file:///E:/Download/https3A2F2Fimages.genius.com2Fc446cc064dc9ad39502320e63fb41a3f.1000x1000x1.jpg",
-    path: "file:///E:/Download/The_Weeknd_-_Heartless_talkglitz.tv.mp3",
+    name: "Baarish",
+    artist: "Gajendra Verma",
+    image: "file:///C:/Users/sky5y/OneDrive/Documents/GitHub/Music-player/Resources/Snapchat-541988799.jpg",
+    path: "file:///C:/Users/sky5y/OneDrive/Documents/GitHub/Music-player/Resources/Baarish%20-%20Yaariyan%20-%20Yaariyan%20320%20Kbps.mp3",
   },
 ];
 
